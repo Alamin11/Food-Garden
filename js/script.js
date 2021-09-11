@@ -11,3 +11,4 @@ window.onscroll = () => {
     menuBar.classList.remove('fa-times');
     navBar.classList.remove('active');
 }
+
