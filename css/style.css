@@ -62,6 +62,10 @@ header .navbar a {
   color: #666;
 }
 
+/* header .navbar.active {
+  clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
+} */
+
 header .navbar a:hover {
   color: var(--red);
 }
